@@ -1,2 +1,2 @@
 # Automação
-Destinado à automação
+Destinado à automação.
